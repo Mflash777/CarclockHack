@@ -1,17 +1,14 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-XIAO ESP32-S3,1,Seeed Studio,$7.49,$7.49,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html
-"ESP32 WROVER dev board (DevKitC-VE style, Bluetooth + PSRAM)",1,AliExpress,$10.00,$10.00,https://www.aliexpress.com/wholesale?SearchText=ESP32-DevKitC-VE+WROVER-E
-2.0 in 240x320 ST7789 SPI TFT,1,AliExpress,$5.00,$5.00,https://www.aliexpress.com/wholesale?SearchText=2.0+inch+IPS+TFT+ST7789+240x320+SPI
-HT16K33 4-digit 7-segment I2C,1,AliExpress,$4.00,$4.00,https://www.aliexpress.com/wholesale?SearchText=HT16K33+4+digit+7+segment+I2C+0.56
-DS3231 RTC module,1,AliExpress,$2.50,$2.50,https://www.aliexpress.com/wholesale?SearchText=DS3231+RTC+module
-INMP441 I2S microphone,1,AliExpress,$2.50,$2.50,https://www.aliexpress.com/wholesale?SearchText=INMP441+I2S+microphone+module
-MAX98357A I2S amp,1,AliExpress,$2.50,$2.50,https://www.aliexpress.com/wholesale?SearchText=MAX98357A+I2S+amplifier+module
-2 in 52 mm 4 ohm 5 W speaker,1,AliExpress,$3.50,$3.50,https://www.aliexpress.com/wholesale?SearchText=2+inch+52mm+4+ohm+5W+speaker
-12 mm panel push button,2,AliExpress,$0.80,$1.60,https://www.aliexpress.com/wholesale?SearchText=12mm+momentary+push+button+switch
-USB-C female breakout,1,AliExpress,$0.80,$0.80,https://www.aliexpress.com/wholesale?SearchText=USB-C+female+breakout+board+2+pin
-"Resistors, capacitors, 2N3904, 1N4148, 1N5819",1,AliExpress,$2.00,$2.00,https://www.aliexpress.com/wholesale?SearchText=resistor+capacitor+assortment+kit+through+hole
-M3x8 self-tapping screws,1,AliExpress,$0.40,$0.40,https://www.aliexpress.com/wholesale?SearchText=M3+self+tapping+screw+assortment
-"Carrier PCB, 5 pcs, 2 layer",1,JLCPCB,$5.65,$5.65,https://cart.jlcpcb.com/shopcart/cart/
-Estimated total shipping,1,,$0.00,$0.00,
-Estimated total shipping,1,,$0.00,$0.00,
-Estimated total shipping,1,,,$0.00,
+Item,Description,Qty,Supplier,Cost/item,Total Cost,link
+Seeed Studio XIAO ESP32-S3 (SKU 113991114),Main clock microcontroller board,1,Seeed Studio (US warehouse),$7.49,$7.49,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html
+AITRIP ESP32-WROOM-32 Type-C dev board,Bluetooth audio and voice board,1,Amazon,$8.99,$8.99,https://www.amazon.com/dp/B0DF2YJSHN
+2.0 Inch IPS ST7789 240x320 SPI display,Door color screen module,1,Amazon,$7.98,$7.98,https://www.amazon.com/dp/B0H6VZD3LW
+DIYables 4-digit TM1637 LED display (5 pcs),Windshield seven-segment time display,1,Amazon,$7.49,$7.49,https://www.amazon.com/dp/B0F4PSNH94
+AOICRIE DS3231 RTC module (2 pcs),Backup battery clock module,1,Amazon,$7.59,$7.59,https://www.amazon.com/dp/B09STGJBGG
+EGSCST INMP441 I2S microphone (3 pcs),Voice command microphone module,1,Amazon,$9.99,$9.99,https://www.amazon.com/dp/B0H1D77BN8
+MAX98357A I2S amplifier (2 pcs),I2S speaker amplifier board,1,Amazon,$6.89,$6.89,https://www.amazon.com/dp/B0DPJRLMDJ
+DWEII 2 inch 4 ohm speaker (2 pack),Small full range speaker,1,Amazon,$7.99,$7.99,https://www.amazon.com/dp/B0FVWL4LNG
+Dirvcp 12mm momentary push buttons (5 pack),MODE and TALK door buttons,1,Amazon,$6.69,$6.69,https://www.amazon.com/dp/B0FM8QKSM1
+USB C breakout board (5 pcs),USB-C power input board,1,Amazon,$5.99,$5.99,https://www.amazon.com/dp/B0GVK4TZXN
+1000 pcs 1/4W metal film resistor kit,Assorted resistor value kit,1,Amazon,$7.59,$7.59,https://www.amazon.com/dp/B0FT362FV2
+METALLIXITY M3x8 self-tapping screws (100),Case assembly screws pack,1,Amazon,$5.99,$5.99,https://www.amazon.com/dp/B0FJD3TWS1
+Estimated total shipping,"Seeed only, Amazon free",1,,,$6.00,
