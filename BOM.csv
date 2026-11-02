@@ -1,2 +1,20 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+XIAO ESP32-S3,1,Seeed Studio,$7.49,$7.49,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html
+"ESP32 WROVER dev board (DevKitC-VE style, Bluetooth + PSRAM)",1,AliExpress,$10.00,$10.00,https://www.aliexpress.com/wholesale?SearchText=ESP32-DevKitC-VE+WROVER-E
+2.0 in 240x320 ST7789 SPI TFT,1,AliExpress,$5.00,$5.00,https://www.aliexpress.com/wholesale?SearchText=2.0+inch+IPS+TFT+ST7789+240x320+SPI
+HT16K33 4-digit 7-segment I2C,1,AliExpress,$4.00,$4.00,https://www.aliexpress.com/wholesale?SearchText=HT16K33+4+digit+7+segment+I2C+0.56
+DS3231 RTC module,1,AliExpress,$2.50,$2.50,https://www.aliexpress.com/wholesale?SearchText=DS3231+RTC+module
+INMP441 I2S microphone,1,AliExpress,$2.50,$2.50,https://www.aliexpress.com/wholesale?SearchText=INMP441+I2S+microphone+module
+MAX98357A I2S amp,1,AliExpress,$2.50,$2.50,https://www.aliexpress.com/wholesale?SearchText=MAX98357A+I2S+amplifier+module
+2 in 52 mm 4 ohm 5 W speaker,1,AliExpress,$3.50,$3.50,https://www.aliexpress.com/wholesale?SearchText=2+inch+52mm+4+ohm+5W+speaker
+Passive buzzer 12 mm 5 V,2,AliExpress,$0.40,$0.80,https://www.aliexpress.com/wholesale?SearchText=12mm+passive+buzzer+5V
+Tactile switch 6x6x5 mm,1,AliExpress,$0.20,$0.20,https://www.aliexpress.com/wholesale?SearchText=tactile+switch+6x6x5
+12 mm panel push button,2,AliExpress,$0.80,$1.60,https://www.aliexpress.com/wholesale?SearchText=12mm+momentary+push+button+switch
+USB-C female breakout,1,AliExpress,$0.80,$0.80,https://www.aliexpress.com/wholesale?SearchText=USB-C+female+breakout+board+2+pin
+"Resistors, capacitors, 2N3904, 1N4148, 1N5819",1,AliExpress,$2.00,$2.00,https://www.aliexpress.com/wholesale?SearchText=resistor+capacitor+assortment+kit+through+hole
+Pin headers male and female,1,AliExpress,$0.60,$0.60,https://www.aliexpress.com/wholesale?SearchText=2.54mm+pin+header+male+female
+Dupont jumper wires 20 cm,1,AliExpress,$2.50,$2.50,https://www.aliexpress.com/wholesale?SearchText=dupont+jumper+wire+female+female+20cm
+M3x8 self-tapping screws,1,AliExpress,$0.40,$0.40,https://www.aliexpress.com/wholesale?SearchText=M3+self+tapping+screw+assortment
+Foam tape and rubber pads,1,AliExpress,$1.50,$1.50,https://www.aliexpress.com/wholesale?SearchText=double+sided+foam+tape
+"Carrier PCB, 5 pcs, 2 layer",1,JLCPCB,$2.00,$2.00,https://jlcpcb.com
+Estimated total shipping,1,,,$22.00,
