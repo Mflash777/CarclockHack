@@ -1,7 +1,5 @@
 
 
-**Link status.** "verified" = I opened the product page and confirmed name/price/stock. "link found by search" = real listing, but price/stock not confirmed - check before ordering. "search link" = an Amazon search; any equivalent part works.
-
 | Part | Link | Price | Status |
 |---|---|---|---|
 | Seeed XIAO ESP32-S3 | https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html | $7.49 | verified |
