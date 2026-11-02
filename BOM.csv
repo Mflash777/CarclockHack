@@ -1,0 +1,25 @@
+Ref,Qty,Part,Spec,Est. USD (line total),Buy link,Notes
+U1,1,Seeed Studio XIAO ESP32-S3 (clock board),"WiFi, 8MB flash, 8MB PSRAM",7.49,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html,verified page 2026-11
+U2,1,"ESP32-DevKitC-VE (audio board, WROVER-E 8MB/8MB)",classic ESP32 needed for Bluetooth A2DP,24.99,https://shillehtek.com/products/esp32-devkitc-ve-8mb-flash-8mb-psram-presoldered,verified; also Digikey https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-VE/12091812 (price shown at checkout). AliExpress clones ~$9
+DISP1,1,2.0in 240x320 SPI TFT ST7789,8-pin GND VCC SCL SDA RES DC CS BLK,18.95,https://www.sparkfun.com/tft-lcd-display-module-screen-2-0in-240x320-spi-interface.html,verified; AliExpress/Amazon 2.0in IPS ST7789 ~$5-8 (check pinout matches)
+DISP2,1,4-digit 7-segment I2C backpack (HT16K33),"red, address 0x70",9.95,https://www.adafruit.com/product/878,verified; other colors 879/880/881/1002
+RTC1,1,DS3231 precision RTC,I2C 0x68 (+CR2032 if module has holder),13.95,https://www.adafruit.com/product/5188,verified in stock; cheaper ZS-042 style: https://www.amazon.com/s?k=DS3231+RTC+module
+MIC1,1,INMP441 I2S MEMS microphone,,9.99,https://shillehtek.com/products/inmp441-i2s-omnidirectional-microphone-module-with-soldering,verified; Amazon search https://www.amazon.com/s?k=INMP441
+AMP1,1,MAX98357A I2S amp breakout,3 W mono,5.95,https://www.adafruit.com/product/3006,verified in stock
+SPK1,1,2 inch 52 mm 4 ohm 5 W speaker (2-pack),fires down through the bottom plate,8.00,https://www.amazon.com/Gikfun-Speaker-Loudspeaker-Arduino-Replacement/dp/B081169PC5,link found by search; price not verified (est.)
+BZ1-BZ2,2,Passive magnetic buzzer 5 V (WT-1205),externally driven,1.00,https://www.digikey.com/en/products/detail/soberton-inc/WT-1205/479674,"page confirms externally driven, 5 V; price at checkout (est.)"
+SW1,1,Tactile switch 6x6x5 mm (20-pack),spoiler = SNOOZE,2.50,https://www.adafruit.com/product/367,verified; 5 mm tall
+SW2-SW3,2,12 mm momentary push buttons (20-pack),"MODE / TALK, left door",8.00,https://www.amazon.com/Clyxgs-Momentary-Thread-Button-Switch/dp/B07L1PYC2V,link found by search; price not verified (est.)
+J8,1,USB-C female breakout,"5 V in, tail",2.95,https://www.adafruit.com/product/4090,verified in stock
+WIRES,1,Dupont jumpers F-F 20 cm 40 pcs,,6.00,https://www.amazon.com/ELEGOO-Dedicated-Multicolored-Male-Header-Connections/dp/B0H6F428L1,link found by search; price not verified (est.)
+PASSIVES,1,Resistor + ceramic cap + 2N3904/1N4148/1N5819 + 470uF kit,R:1k 2.2k 4.7k 10k 15k; C:100n 1u 10u 470u,8.00,https://www.amazon.com/s?k=resistor+capacitor+assortment+kit+through+hole,search link; any assortment kit works (est.)
+HEADERS,1,2.54 mm male + female pin header assortment,,6.00,https://www.amazon.com/s?k=2.54mm+pin+header+male+female+assortment,search link (est.)
+PCB,1,"Carrier PCB 80x60 mm, 2 layer (5 pcs)",export Gerbers from KiCad,2.00,https://jlcpcb.com,upload Gerbers; shipping extra (~$15-20)
+SCREWS,1,M3x8 self-tapping screws + foam tape,,6.00,https://www.amazon.com/s?k=M3+self+tapping+screw+assortment,search link (est.)
+CASE,1,PETG filament 1 kg (white/silver) + scrap black,~300 g used,20.00,https://www.amazon.com/s?k=PETG+filament+1.75mm+1kg,search link (est.)
+GLASS,1,Translucent smoke PETG or 2 mm smoked acrylic,windshield + side glass,5.00,https://www.amazon.com/s?k=smoked+translucent+PETG+filament,search link (est.)
+,,,,166.72,,TOTAL before shipping/tax
+OWNED,1,Samsung Galaxy Watch charger puck + adapter,,,,
+OWNED,1,5 V 2-3 A USB-C charger,,,,
+NOT INCLUDED,1,"Home Assistant server (Pi 4/5, mini PC, or HA Green)",,,,https://www.home-assistant.io/green/
+,,Hinge pin: 80 mm of 1.75 mm filament scrap (free),,,,
