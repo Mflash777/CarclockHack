@@ -1,0 +1,7 @@
+.pio/
+.vscode/
+__pycache__/
+case/stl/_preview_*.npy
+hardware/pcb/gerbers/
+hardware/pcb/*-backups/
+hardware/pcb/fp-info-cache
